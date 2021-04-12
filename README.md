@@ -1,4 +1,4 @@
-# PDF-Reader---Read-Aloud
+# PDF Reader - Read Aloud
 
 ## Here only the .apk file will be released. Source code is not been published for privacy for now.
 
